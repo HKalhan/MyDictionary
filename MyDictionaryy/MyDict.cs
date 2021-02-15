@@ -37,7 +37,8 @@ namespace MyDictionary
                Console.WriteLine("Stok:" + arrayKey[i] + "   Malzeme Adı:" + arrayValue[i]);
               
             }
-            Console.WriteLine("");
+            Console.WriteLine(" ");
+            Console.Readline();
         }
 
 
